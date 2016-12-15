@@ -11,6 +11,10 @@ Provides:
 * the ability to use custom pins, info boxes and pin clustering.
 * a GeoJSON endpoint that can be accessed by other services
 
+# Documentation
+
+Documentation is available on the [wiki page](https://github.com/funnelback/funnelback-mapping/wiki)
+
 # Dependencies
 
 The following third party code is used for this implementation:
@@ -22,3 +26,6 @@ The following third party code is used for this implementation:
 * [Leaflet.Spin](https://github.com/makinacorpus/Leaflet.Spin) - spinner plugin
 * [SpinJS](http://fgnass.github.io/spin.js/) - Javascript spinner
 * [pLeaflet.Sleep](https://github.com/CliffCloud/Leaflet.Sleep) - deactivates the map so that it doesn't zoom when you scroll a page containing the map
+
+# Example implementation
+* [International airport locations demo](http://showcase.funnelback.com/s/search.html?collection=showcase-mapping)
