@@ -13,7 +13,7 @@ Provides:
 
 # Documentation
 
-Documentation is available on the [wiki page](https://github.com/funnelback/funnelback-mapping/wiki)
+Documentation is available on the [wiki page](https://github.com/funnelback/funnelback-mapping/wiki/Documentation)
 
 # Dependencies
 
