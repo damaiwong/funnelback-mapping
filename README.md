@@ -26,6 +26,8 @@ The following third party code is used for this implementation:
 * [Leaflet.Spin](https://github.com/makinacorpus/Leaflet.Spin) - spinner plugin
 * [SpinJS](http://fgnass.github.io/spin.js/) - Javascript spinner
 * [pLeaflet.Sleep](https://github.com/CliffCloud/Leaflet.Sleep) - deactivates the map so that it doesn't zoom when you scroll a page containing the map
+* [Leaflet.awesome-markers]https://github.com/lvoogdt/Leaflet.awesome-markers - easy marker customisation using Font Awesome icons
+* [Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
 
 # Example implementation
 * [International airport locations demo](http://showcase.funnelback.com/s/search.html?collection=showcase-mapping)
